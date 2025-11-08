@@ -12,4 +12,4 @@ def greet_user(name):
 if __name__ == "__main__":
     greet_user("GitHub User")
 if __name__ == "__main__":
-    greet_user("GitHub User")
+Imported the datetime module and updated the greet_user function to display the current server timestamp alongside the welcome message.

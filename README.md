@@ -7,7 +7,7 @@ def greet_user(name):
 
 def greet_user(name):
     """Prints a standard personalized welcome message."""
-fix: Display current timestamp in greeting
+fix: Display current time
 if __name__ == "__main__":
     greet_user("GitHub User")
 if __name__ == "__main__":

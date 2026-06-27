@@ -21,3 +21,4 @@ if __name__ == "__main__":
     greet_user("GitHub User")
     send me the gifs
     turn off ther light
+have a party with girls att lost
